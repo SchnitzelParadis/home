@@ -1,3 +1,20 @@
+
+
+
+/*---------------------------VARIABLES CSS---------------------------*/
+:root {
+  --header-height: 3rem;
+
+  /*--------------------------- Colors---------------------------*/
+  --first-color: #e67802;
+  --first-color-alt: #E1893C;
+  --title-color: #393939;
+  --text-color: #707070;
+  --text-color-light: #A6A6A6;
+  --body-color: #ffffff;
+  --container-color: #FFFFFF;
+
+
 /*---------------------------Menu---------------------------*/
 
 .menu-table {
@@ -25,20 +42,6 @@
 .menu-table td {
   text-align: right;
 }
-
-
-/*---------------------------VARIABLES CSS---------------------------*/
-:root {
-  --header-height: 3rem;
-
-  /*--------------------------- Colors---------------------------*/
-  --first-color: #e67802;
-  --first-color-alt: #E1893C;
-  --title-color: #393939;
-  --text-color: #707070;
-  --text-color-light: #A6A6A6;
-  --body-color: #ffffff;
-  --container-color: #FFFFFF;
 
   /*--------------------------- Font and typography---------------------------*/
 
